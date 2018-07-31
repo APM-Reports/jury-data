@@ -23,7 +23,7 @@ Each row in the trials spreadsheet represents one trial.
 - defendant_name
   - The first defendant's name as it appeared on the indictment in the court records
 - cause_number
-  - Each cause number is structured like `YEAR-TRAIL NUMBER`. This is the number used by the state court system to track trials. Re-trials were assigned the same cause number so we added brackets to cause numbers to differentiate between different trials under the same cause number.
+  - Each cause number is structured like `YEAR-TRIAL NUMBER`. This is the number used by the state court system to track trials. Re-trials were assigned the same cause number so we added brackets to cause numbers to differentiate between different trials under the same cause number.
 - state_strikes
   - Boolean, did the state use all its peremptory strikes.
 - defense_strikes
